@@ -2,9 +2,9 @@
 
 Este projeto foi criado e apresentado para a comunidade **Podcodar** com o objetivo de ensinar os membros sobre as peças que compõem um computador e como montá-las passo a passo.
 
-📺 **Assista ao vídeo aqui**: [Link do YouTube](https://www.youtube.com/watch?v=IciRZKxuWaQ)
+## 📺 **Assista ao vídeo aqui**: [Link do YouTube](https://www.youtube.com/watch?v=IciRZKxuWaQ)
 
-![imagem](./static/vid_thumb.jpg)
+[![thumb](./static/click_thumb.jpg)](https://www.youtube.com/watch?v=fW8NvmkgNlA)
 
 ## Sobre o Vídeo
 
@@ -14,10 +14,6 @@ No vídeo, eu explico de forma simples:
 - Como escolher peças compatíveis
 - Como montar o PC do zero
 - Dicas práticas e erros comuns
-
-## Apresentação
-
-[![thumb](./static/vid_thumb.jpg)](https://www.youtube.com/watch?v=fW8NvmkgNlA)
 
 ## Componentes Utilizados
 
