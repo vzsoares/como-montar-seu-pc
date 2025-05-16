@@ -29,7 +29,7 @@ No vídeo, eu explico de forma simples:
 
 Parte do conteúdo e da estrutura foi inspirada neste vídeo:
 
-- [How to Build a PC, the last guide you’ll ever need! (2024 Update)](https://www.youtube.com/watch?v=s1fxZ-VWs2U)
+- [How to build a PC, the last guide you'll ever need!](https://www.youtube.com/watch?v=BL4DCEp7blY)
 
 ## Licença
 
