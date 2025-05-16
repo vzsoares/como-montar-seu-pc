@@ -4,7 +4,7 @@ Este projeto foi criado e apresentado para a comunidade **Podcodar** com o objet
 
 📺 **Assista ao vídeo aqui**: [Link do YouTube](https://www.youtube.com/watch?v=IciRZKxuWaQ)
 
-![imagem](./static/corrente_humana_b.jpg)
+![imagem](./static/vid_thumb.jpg)
 
 ## Sobre o Vídeo
 
@@ -14,6 +14,10 @@ No vídeo, eu explico de forma simples:
 - Como escolher peças compatíveis
 - Como montar o PC do zero
 - Dicas práticas e erros comuns
+
+## Apresentação
+
+[![thumb](./static/vid_thumb.jpg)](https://www.youtube.com/watch?v=fW8NvmkgNlA)
 
 ## Componentes Utilizados
 
@@ -29,7 +33,7 @@ No vídeo, eu explico de forma simples:
 
 Parte do conteúdo e da estrutura foi inspirada neste vídeo:
 
-- [Paul’s Hardware – How to Build a Gaming PC in 2023](https://www.youtube.com/watch?v=IciRZKxuWaQ)
+- [How to Build a PC, the last guide you’ll ever need! (2024 Update)](https://www.youtube.com/watch?v=s1fxZ-VWs2U)
 
 ## Licença
 
