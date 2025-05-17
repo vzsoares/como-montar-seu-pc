@@ -15,16 +15,6 @@ No vídeo, eu explico de forma simples:
 - Como montar o PC do zero
 - Dicas práticas e erros comuns
 
-## Componentes Utilizados
-
-- CPU: [modelo]
-- Placa-mãe: [modelo]
-- RAM: [modelo]
-- GPU: [modelo]
-- Armazenamento: SSD 80gb
-- Fonte: generica 300w
-- Gabinete: generico
-
 ## Referência
 
 Parte do conteúdo e da estrutura foi inspirada neste vídeo:
