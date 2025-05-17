@@ -4,7 +4,7 @@ Este projeto foi criado e apresentado para a comunidade **Podcodar** com o objet
 
 ## 📺 **Assista ao vídeo aqui**: [Link do YouTube](https://www.youtube.com/watch?v=IciRZKxuWaQ)
 
-[![thumb](./static/click_thumb.jpg)](https://www.youtube.com/watch?v=fW8NvmkgNlA)
+[![thumb](./static/click_thumb.jpg)](https://www.youtube.com/watch?v=IciRZKxuWaQ)
 
 ## Sobre o Vídeo
 
